@@ -1,6 +1,7 @@
 {
   "name": "smarthelp-api",
   "version": "1.0.0",
+  "type": "commonjs",
   "main": "uygulama.js",
   "scripts": {
     "start": "node uygulama.js"
