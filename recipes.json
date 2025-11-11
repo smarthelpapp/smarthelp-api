@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "title": "Tavuk Izgara",
+    "calorie": 450,
+    "tags": ["tavuk", "protein", "ana yemek"],
+    "ingredients": ["tavuk göğsü", "zeytinyağı", "tuz", "karabiber"],
+    "recipe": "Tavuğu marine edin, ısıtılmış döküm tavada iki tarafını da pişirin."
+  },
+  {
+    "id": 2,
+    "title": "Sebzeli Makarna",
+    "calorie": 600,
+    "tags": ["makarna", "sebze", "karnıbahar"],
+    "ingredients": ["makarna", "kabak", "biber", "zeytinyağı"],
+    "recipe": "Sebzeleri soteleyin, haşlanmış makarna ile karıştırın."
+  }
+]
