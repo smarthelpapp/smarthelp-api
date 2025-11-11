@@ -10,16 +10,20 @@ app.get("/", (req, res) => {
   res.send("SmartHelp API çalışıyor ✅");
 });
 
-// Örnek basit arama (şimdilik 2 sonuç)
+// Örnek (şimdilik küçük liste) — sonrasında 1500+ tarif ekleyeceğiz
 const RECIPES = [
   { id: 1, title: "Tavuk Izgara", kcal: 420, ingredients: ["tavuk", "tuz", "zeytinyağı"] },
-  { id: 2, title: "Tavuk Sote", kcal: 380, ingredients: ["tavuk", "biber", "soğan"] }
+  { id: 2, title: "Tavuk Sote", kcal: 380, ingredients: ["tavuk", "biber", "soğan"] },
+  { id: 3, title: "Sebzeli Fırın Tavuk", kcal: 450, ingredients: ["tavuk", "patates", "havuç", "zeytinyağı"] }
 ];
 
 // /recipes/search?q=tavuk
 app.get("/recipes/search", (req, res) => {
   const q = (req.query.q || "").toLowerCase();
-  const list = RECIPES.filter(r => r.title.toLowerCase().includes(q) || r.ingredients.some(i => i.includes(q)));
+  const list = RECIPES.filter(r =>
+    r.title.toLowerCase().includes(q) ||
+    r.ingredients.some(i => i.toLowerCase().includes(q))
+  );
   res.json(list);
 });
 
