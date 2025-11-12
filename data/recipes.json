@@ -1,26 +1,933 @@
 [
   {
-    "id": 1,
-    "title": "Mercimek Çorbası",
-    "category": "Çorba",
-    "kcal": 180,
+    "title": "Bulgur Pilavı",
+    "category": "Fit",
+    "cuisine": "Türk",
+    "kcal": 495,
+    "time": "44 dk",
+    "servings": 4,
     "ingredients": [
-      "1 su bardağı mercimek",
-      "1 adet soğan",
-      "2 yemek kaşığı yağ",
-      "Tuz",
-      "Su"
+      "yulaf",
+      "muz",
+      "yoğurt",
+      "yumurta beyazı",
+      "bal"
     ],
     "steps": [
-      "Soğanı yağda kavur.",
-      "Mercimeği ekle.",
-      "Su koy.",
-      "20 dk pişir.",
-      "Blenderdan geçir."
+      "Adım 1: malzemeleri ekle.",
+      "Adım 2: malzemeleri ekle.",
+      "Adım 3: servis et.",
+      "Adım 4: malzemeleri ekle.",
+      "Adım 5: malzemeleri ekle.",
+      "Adım 6: soğanları doğra.",
+      "Adım 7: karıştır.",
+      "Adım 8: baharatları ekle.",
+      "Adım 9: fırına ver.",
+      "Adım 10: soğanları doğra."
     ],
-    "tags": [
-      "Turkish",
-      "Çorba"
-    ]
+    "image": "https://source.unsplash.com/600x400/?Bulgur%20Pilavı,food"
+  },
+  {
+    "title": "Tavuklu Salata",
+    "category": "Salata",
+    "cuisine": "Türk",
+    "kcal": 421,
+    "time": "69 dk",
+    "servings": 2,
+    "ingredients": [
+      "marul",
+      "domates",
+      "zeytinyağı",
+      "salatalık",
+      "limon"
+    ],
+    "steps": [
+      "Adım 1: ocağı kıs.",
+      "Adım 2: soğanları doğra.",
+      "Adım 3: baharatları ekle.",
+      "Adım 4: soğanları doğra.",
+      "Adım 5: servis et.",
+      "Adım 6: tadına bak.",
+      "Adım 7: pişmeye bırak.",
+      "Adım 8: karıştır.",
+      "Adım 9: baharatları ekle."
+    ],
+    "image": "https://source.unsplash.com/600x400/?Tavuklu%20Salata,food"
+  },
+  {
+    "title": "Güveç",
+    "category": "Et",
+    "cuisine": "Türk",
+    "kcal": 281,
+    "time": "78 dk",
+    "servings": 4,
+    "ingredients": [
+      "kuzu eti",
+      "karabiber",
+      "sarımsak",
+      "domates",
+      "yağ"
+    ],
+    "steps": [
+      "Adım 1: fırına ver.",
+      "Adım 2: yağı ısıt.",
+      "Adım 3: servis et.",
+      "Adım 4: soğanları doğra.",
+      "Adım 5: baharatları ekle.",
+      "Adım 6: ocağı kıs.",
+      "Adım 7: fırına ver.",
+      "Adım 8: ocağı kıs.",
+      "Adım 9: suyu ilave et."
+    ],
+    "image": "https://source.unsplash.com/600x400/?Güveç,food"
+  },
+  {
+    "title": "Menemen",
+    "category": "Fit",
+    "cuisine": "Türk",
+    "kcal": 499,
+    "time": "34 dk",
+    "servings": 4,
+    "ingredients": [
+      "yumurta beyazı",
+      "yoğurt",
+      "yulaf",
+      "bal",
+      "muz"
+    ],
+    "steps": [
+      "Adım 1: fırına ver.",
+      "Adım 2: yağı ısıt.",
+      "Adım 3: pişmeye bırak.",
+      "Adım 4: soğanları doğra.",
+      "Adım 5: tadına bak.",
+      "Adım 6: suyu ilave et.",
+      "Adım 7: baharatları ekle."
+    ],
+    "image": "https://source.unsplash.com/600x400/?Menemen,food"
+  },
+  {
+    "title": "Mercimek Çorbası",
+    "category": "Çorba",
+    "cuisine": "Türk",
+    "kcal": 590,
+    "time": "28 dk",
+    "servings": 4,
+    "ingredients": [
+      "nane",
+      "tuz",
+      "tereyağı",
+      "karabiber",
+      "salça"
+    ],
+    "steps": [
+      "Adım 1: soğanları doğra.",
+      "Adım 2: tadına bak.",
+      "Adım 3: karıştır.",
+      "Adım 4: karıştır.",
+      "Adım 5: suyu ilave et.",
+      "Adım 6: fırına ver.",
+      "Adım 7: karıştır.",
+      "Adım 8: suyu ilave et.",
+      "Adım 9: soğanları doğra."
+    ],
+    "image": "https://source.unsplash.com/600x400/?Mercimek%20Çorbası,food"
+  },
+  {
+    "title": "Sarma",
+    "category": "Vegan",
+    "cuisine": "Türk",
+    "kcal": 269,
+    "time": "43 dk",
+    "servings": 2,
+    "ingredients": [
+      "kabak",
+      "patlıcan",
+      "domates",
+      "tuz",
+      "zeytinyağı",
+      "soğan"
+    ],
+    "steps": [
+      "Adım 1: suyu ilave et.",
+      "Adım 2: baharatları ekle.",
+      "Adım 3: pişmeye bırak.",
+      "Adım 4: soğanları doğra.",
+      "Adım 5: suyu ilave et.",
+      "Adım 6: baharatları ekle.",
+      "Adım 7: pişmeye bırak."
+    ],
+    "image": "https://source.unsplash.com/600x400/?Sarma,food"
+  },
+  {
+    "title": "Revani",
+    "category": "Tatlı",
+    "cuisine": "Türk",
+    "kcal": 607,
+    "time": "42 dk",
+    "servings": 2,
+    "ingredients": [
+      "vanilin",
+      "süt",
+      "şeker",
+      "un",
+      "tereyağı"
+    ],
+    "steps": [
+      "Adım 1: pişmeye bırak.",
+      "Adım 2: baharatları ekle.",
+      "Adım 3: karıştır.",
+      "Adım 4: pişmeye bırak.",
+      "Adım 5: suyu ilave et.",
+      "Adım 6: ocağı kıs.",
+      "Adım 7: suyu ilave et.",
+      "Adım 8: tadına bak.",
+      "Adım 9: tadına bak."
+    ],
+    "image": "https://source.unsplash.com/600x400/?Revani,food"
+  },
+  {
+    "title": "Karnıyarık",
+    "category": "Et",
+    "cuisine": "Türk",
+    "kcal": 497,
+    "time": "25 dk",
+    "servings": 2,
+    "ingredients": [
+      "domates",
+      "tavuk göğsü",
+      "yağ",
+      "tuz",
+      "biber"
+    ],
+    "steps": [
+      "Adım 1: yağı ısıt.",
+      "Adım 2: malzemeleri ekle.",
+      "Adım 3: suyu ilave et.",
+      "Adım 4: servis et.",
+      "Adım 5: malzemeleri ekle.",
+      "Adım 6: suyu ilave et.",
+      "Adım 7: baharatları ekle.",
+      "Adım 8: pişmeye bırak."
+    ],
+    "image": "https://source.unsplash.com/600x400/?Karnıyarık,food"
+  },
+  {
+    "title": "Şakşuka",
+    "category": "Vegan",
+    "cuisine": "Türk",
+    "kcal": 526,
+    "time": "38 dk",
+    "servings": 2,
+    "ingredients": [
+      "tuz",
+      "domates",
+      "kabak",
+      "patlıcan",
+      "zeytinyağı"
+    ],
+    "steps": [
+      "Adım 1: tadına bak.",
+      "Adım 2: fırına ver.",
+      "Adım 3: suyu ilave et.",
+      "Adım 4: fırına ver.",
+      "Adım 5: karıştır.",
+      "Adım 6: yağı ısıt.",
+      "Adım 7: ocağı kıs.",
+      "Adım 8: karıştır.",
+      "Adım 9: fırına ver."
+    ],
+    "image": "https://source.unsplash.com/600x400/?Şakşuka,food"
+  },
+  {
+    "title": "Zeytinyağlı Fasulye",
+    "category": "Vegan",
+    "cuisine": "Türk",
+    "kcal": 412,
+    "time": "36 dk",
+    "servings": 4,
+    "ingredients": [
+      "soğan",
+      "tuz",
+      "zeytinyağı",
+      "domates",
+      "patlıcan",
+      "kabak"
+    ],
+    "steps": [
+      "Adım 1: fırına ver.",
+      "Adım 2: ocağı kıs.",
+      "Adım 3: fırına ver.",
+      "Adım 4: servis et.",
+      "Adım 5: soğanları doğra.",
+      "Adım 6: pişmeye bırak.",
+      "Adım 7: soğanları doğra.",
+      "Adım 8: yağı ısıt."
+    ],
+    "image": "https://source.unsplash.com/600x400/?Zeytinyağlı%20Fasulye,food"
+  },
+  {
+    "title": "Mücver",
+    "category": "Fit",
+    "cuisine": "Türk",
+    "kcal": 262,
+    "time": "51 dk",
+    "servings": 2,
+    "ingredients": [
+      "yulaf",
+      "muz",
+      "bal",
+      "yoğurt",
+      "yumurta beyazı"
+    ],
+    "steps": [
+      "Adım 1: karıştır.",
+      "Adım 2: pişmeye bırak.",
+      "Adım 3: servis et.",
+      "Adım 4: ocağı kıs.",
+      "Adım 5: servis et.",
+      "Adım 6: fırına ver.",
+      "Adım 7: soğanları doğra."
+    ],
+    "image": "https://source.unsplash.com/600x400/?Mücver,food"
+  },
+  {
+    "title": "Yoğurt Çorbası",
+    "category": "Çorba",
+    "cuisine": "Türk",
+    "kcal": 342,
+    "time": "68 dk",
+    "servings": 2,
+    "ingredients": [
+      "soğan",
+      "nane",
+      "mercimek",
+      "karabiber",
+      "tuz",
+      "tereyağı",
+      "salça"
+    ],
+    "steps": [
+      "Adım 1: baharatları ekle.",
+      "Adım 2: soğanları doğra.",
+      "Adım 3: karıştır.",
+      "Adım 4: suyu ilave et.",
+      "Adım 5: soğanları doğra.",
+      "Adım 6: soğanları doğra.",
+      "Adım 7: ocağı kıs."
+    ],
+    "image": "https://source.unsplash.com/600x400/?Yoğurt%20Çorbası,food"
+  },
+  {
+    "title": "İzmir Köfte",
+    "category": "Et",
+    "cuisine": "Türk",
+    "kcal": 267,
+    "time": "87 dk",
+    "servings": 2,
+    "ingredients": [
+      "tavuk göğsü",
+      "karabiber",
+      "soğan",
+      "sarımsak",
+      "kuzu eti"
+    ],
+    "steps": [
+      "Adım 1: tadına bak.",
+      "Adım 2: soğanları doğra.",
+      "Adım 3: suyu ilave et.",
+      "Adım 4: malzemeleri ekle.",
+      "Adım 5: ocağı kıs.",
+      "Adım 6: ocağı kıs.",
+      "Adım 7: baharatları ekle.",
+      "Adım 8: karıştır.",
+      "Adım 9: karıştır.",
+      "Adım 10: fırına ver."
+    ],
+    "image": "https://source.unsplash.com/600x400/?İzmir%20Köfte,food"
+  },
+  {
+    "title": "Kuru Fasulye",
+    "category": "Et",
+    "cuisine": "Türk",
+    "kcal": 691,
+    "time": "30 dk",
+    "servings": 4,
+    "ingredients": [
+      "yağ",
+      "karabiber",
+      "tavuk göğsü",
+      "biber",
+      "kuzu eti",
+      "tuz"
+    ],
+    "steps": [
+      "Adım 1: servis et.",
+      "Adım 2: soğanları doğra.",
+      "Adım 3: karıştır.",
+      "Adım 4: fırına ver.",
+      "Adım 5: yağı ısıt.",
+      "Adım 6: ocağı kıs.",
+      "Adım 7: baharatları ekle.",
+      "Adım 8: soğanları doğra.",
+      "Adım 9: fırına ver."
+    ],
+    "image": "https://source.unsplash.com/600x400/?Kuru%20Fasulye,food"
+  },
+  {
+    "title": "Tavuk Sote",
+    "category": "Et",
+    "cuisine": "Türk",
+    "kcal": 208,
+    "time": "25 dk",
+    "servings": 2,
+    "ingredients": [
+      "kuzu eti",
+      "sarımsak",
+      "karabiber",
+      "yağ",
+      "domates",
+      "biber",
+      "tuz",
+      "tavuk göğsü"
+    ],
+    "steps": [
+      "Adım 1: fırına ver.",
+      "Adım 2: soğanları doğra.",
+      "Adım 3: ocağı kıs.",
+      "Adım 4: soğanları doğra.",
+      "Adım 5: tadına bak.",
+      "Adım 6: servis et.",
+      "Adım 7: soğanları doğra.",
+      "Adım 8: fırına ver."
+    ],
+    "image": "https://source.unsplash.com/600x400/?Tavuk%20Sote,food"
+  },
+  {
+    "title": "Fırında Tavuk",
+    "category": "Et",
+    "cuisine": "Türk",
+    "kcal": 559,
+    "time": "49 dk",
+    "servings": 2,
+    "ingredients": [
+      "karabiber",
+      "tuz",
+      "yağ",
+      "biber",
+      "domates",
+      "soğan",
+      "kuzu eti",
+      "sarımsak"
+    ],
+    "steps": [
+      "Adım 1: baharatları ekle.",
+      "Adım 2: yağı ısıt.",
+      "Adım 3: malzemeleri ekle.",
+      "Adım 4: soğanları doğra.",
+      "Adım 5: yağı ısıt.",
+      "Adım 6: servis et.",
+      "Adım 7: soğanları doğra.",
+      "Adım 8: baharatları ekle.",
+      "Adım 9: suyu ilave et."
+    ],
+    "image": "https://source.unsplash.com/600x400/?Fırında%20Tavuk,food"
+  },
+  {
+    "title": "İmam Bayıldı",
+    "category": "Vegan",
+    "cuisine": "Türk",
+    "kcal": 685,
+    "time": "85 dk",
+    "servings": 4,
+    "ingredients": [
+      "soğan",
+      "tuz",
+      "kabak",
+      "domates",
+      "patlıcan",
+      "zeytinyağı"
+    ],
+    "steps": [
+      "Adım 1: baharatları ekle.",
+      "Adım 2: servis et.",
+      "Adım 3: malzemeleri ekle.",
+      "Adım 4: karıştır.",
+      "Adım 5: servis et.",
+      "Adım 6: malzemeleri ekle.",
+      "Adım 7: karıştır.",
+      "Adım 8: pişmeye bırak.",
+      "Adım 9: malzemeleri ekle.",
+      "Adım 10: soğanları doğra."
+    ],
+    "image": "https://source.unsplash.com/600x400/?İmam%20Bayıldı,food"
+  },
+  {
+    "title": "Baklava",
+    "category": "Tatlı",
+    "cuisine": "Türk",
+    "kcal": 322,
+    "time": "43 dk",
+    "servings": 2,
+    "ingredients": [
+      "vanilin",
+      "un",
+      "tereyağı",
+      "süt",
+      "yumurta",
+      "şeker"
+    ],
+    "steps": [
+      "Adım 1: karıştır.",
+      "Adım 2: malzemeleri ekle.",
+      "Adım 3: servis et.",
+      "Adım 4: ocağı kıs.",
+      "Adım 5: servis et.",
+      "Adım 6: yağı ısıt.",
+      "Adım 7: malzemeleri ekle."
+    ],
+    "image": "https://source.unsplash.com/600x400/?Baklava,food"
+  },
+  {
+    "title": "Ezogelin Çorbası",
+    "category": "Çorba",
+    "cuisine": "Türk",
+    "kcal": 557,
+    "time": "37 dk",
+    "servings": 4,
+    "ingredients": [
+      "mercimek",
+      "karabiber",
+      "salça",
+      "tuz",
+      "soğan",
+      "tereyağı",
+      "nane"
+    ],
+    "steps": [
+      "Adım 1: tadına bak.",
+      "Adım 2: soğanları doğra.",
+      "Adım 3: yağı ısıt.",
+      "Adım 4: fırına ver.",
+      "Adım 5: fırına ver.",
+      "Adım 6: fırına ver.",
+      "Adım 7: pişmeye bırak.",
+      "Adım 8: ocağı kıs."
+    ],
+    "image": "https://source.unsplash.com/600x400/?Ezogelin%20Çorbası,food"
+  },
+  {
+    "title": "Spaghetti Carbonara",
+    "category": "Et",
+    "cuisine": "Dünya",
+    "kcal": 518,
+    "time": "56 dk",
+    "servings": 2,
+    "ingredients": [
+      "kuzu eti",
+      "tavuk göğsü",
+      "domates",
+      "sarımsak",
+      "tuz"
+    ],
+    "steps": [
+      "Adım 1: ocağı kıs.",
+      "Adım 2: baharatları ekle.",
+      "Adım 3: malzemeleri ekle.",
+      "Adım 4: ocağı kıs.",
+      "Adım 5: karıştır.",
+      "Adım 6: yağı ısıt.",
+      "Adım 7: fırına ver.",
+      "Adım 8: tadına bak.",
+      "Adım 9: yağı ısıt.",
+      "Adım 10: ocağı kıs."
+    ],
+    "image": "https://source.unsplash.com/600x400/?Spaghetti%20Carbonara,food"
+  },
+  {
+    "title": "Sushi",
+    "category": "Dünya",
+    "cuisine": "Dünya",
+    "kcal": 205,
+    "time": "76 dk",
+    "servings": 2,
+    "ingredients": [
+      "soğan",
+      "zencefil",
+      "pirinç",
+      "soya sosu",
+      "yağ",
+      "tavuk"
+    ],
+    "steps": [
+      "Adım 1: yağı ısıt.",
+      "Adım 2: baharatları ekle.",
+      "Adım 3: suyu ilave et.",
+      "Adım 4: yağı ısıt.",
+      "Adım 5: tadına bak.",
+      "Adım 6: suyu ilave et.",
+      "Adım 7: ocağı kıs.",
+      "Adım 8: baharatları ekle.",
+      "Adım 9: karıştır.",
+      "Adım 10: tadına bak."
+    ],
+    "image": "https://source.unsplash.com/600x400/?Sushi,food"
+  },
+  {
+    "title": "Caesar Salad",
+    "category": "Salata",
+    "cuisine": "Dünya",
+    "kcal": 636,
+    "time": "62 dk",
+    "servings": 2,
+    "ingredients": [
+      "marul",
+      "salatalık",
+      "tuz",
+      "limon",
+      "zeytinyağı",
+      "domates"
+    ],
+    "steps": [
+      "Adım 1: yağı ısıt.",
+      "Adım 2: fırına ver.",
+      "Adım 3: pişmeye bırak.",
+      "Adım 4: pişmeye bırak.",
+      "Adım 5: yağı ısıt.",
+      "Adım 6: ocağı kıs.",
+      "Adım 7: karıştır.",
+      "Adım 8: baharatları ekle.",
+      "Adım 9: fırına ver."
+    ],
+    "image": "https://source.unsplash.com/600x400/?Caesar%20Salad,food"
+  },
+  {
+    "title": "Ratatouille",
+    "category": "Vegan",
+    "cuisine": "Dünya",
+    "kcal": 434,
+    "time": "67 dk",
+    "servings": 2,
+    "ingredients": [
+      "soğan",
+      "kabak",
+      "tuz",
+      "zeytinyağı",
+      "patlıcan"
+    ],
+    "steps": [
+      "Adım 1: suyu ilave et.",
+      "Adım 2: suyu ilave et.",
+      "Adım 3: fırına ver.",
+      "Adım 4: servis et.",
+      "Adım 5: yağı ısıt.",
+      "Adım 6: yağı ısıt.",
+      "Adım 7: karıştır."
+    ],
+    "image": "https://source.unsplash.com/600x400/?Ratatouille,food"
+  },
+  {
+    "title": "Tacos",
+    "category": "Et",
+    "cuisine": "Dünya",
+    "kcal": 413,
+    "time": "31 dk",
+    "servings": 2,
+    "ingredients": [
+      "tavuk göğsü",
+      "domates",
+      "biber",
+      "kuzu eti",
+      "yağ"
+    ],
+    "steps": [
+      "Adım 1: ocağı kıs.",
+      "Adım 2: malzemeleri ekle.",
+      "Adım 3: suyu ilave et.",
+      "Adım 4: ocağı kıs.",
+      "Adım 5: yağı ısıt.",
+      "Adım 6: ocağı kıs.",
+      "Adım 7: karıştır.",
+      "Adım 8: yağı ısıt."
+    ],
+    "image": "https://source.unsplash.com/600x400/?Tacos,food"
+  },
+  {
+    "title": "Falafel",
+    "category": "Vegan",
+    "cuisine": "Dünya",
+    "kcal": 602,
+    "time": "46 dk",
+    "servings": 2,
+    "ingredients": [
+      "tuz",
+      "patlıcan",
+      "soğan",
+      "zeytinyağı",
+      "kabak",
+      "domates"
+    ],
+    "steps": [
+      "Adım 1: malzemeleri ekle.",
+      "Adım 2: karıştır.",
+      "Adım 3: fırına ver.",
+      "Adım 4: suyu ilave et.",
+      "Adım 5: servis et.",
+      "Adım 6: fırına ver.",
+      "Adım 7: malzemeleri ekle."
+    ],
+    "image": "https://source.unsplash.com/600x400/?Falafel,food"
+  },
+  {
+    "title": "Pizza Margherita",
+    "category": "Et",
+    "cuisine": "Dünya",
+    "kcal": 730,
+    "time": "47 dk",
+    "servings": 2,
+    "ingredients": [
+      "kuzu eti",
+      "tavuk göğsü",
+      "tuz",
+      "soğan",
+      "sarımsak",
+      "biber",
+      "karabiber"
+    ],
+    "steps": [
+      "Adım 1: pişmeye bırak.",
+      "Adım 2: karıştır.",
+      "Adım 3: karıştır.",
+      "Adım 4: pişmeye bırak.",
+      "Adım 5: yağı ısıt.",
+      "Adım 6: baharatları ekle.",
+      "Adım 7: servis et."
+    ],
+    "image": "https://source.unsplash.com/600x400/?Pizza%20Margherita,food"
+  },
+  {
+    "title": "Tom Yum",
+    "category": "Çorba",
+    "cuisine": "Dünya",
+    "kcal": 200,
+    "time": "68 dk",
+    "servings": 4,
+    "ingredients": [
+      "karabiber",
+      "salça",
+      "mercimek",
+      "tereyağı",
+      "tuz",
+      "soğan",
+      "nane"
+    ],
+    "steps": [
+      "Adım 1: fırına ver.",
+      "Adım 2: malzemeleri ekle.",
+      "Adım 3: baharatları ekle.",
+      "Adım 4: yağı ısıt.",
+      "Adım 5: tadına bak.",
+      "Adım 6: ocağı kıs.",
+      "Adım 7: fırına ver.",
+      "Adım 8: yağı ısıt."
+    ],
+    "image": "https://source.unsplash.com/600x400/?Tom%20Yum,food"
+  },
+  {
+    "title": "Chocolate Cake",
+    "category": "Tatlı",
+    "cuisine": "Dünya",
+    "kcal": 329,
+    "time": "50 dk",
+    "servings": 2,
+    "ingredients": [
+      "un",
+      "şeker",
+      "tereyağı",
+      "vanilin",
+      "yumurta",
+      "süt"
+    ],
+    "steps": [
+      "Adım 1: fırına ver.",
+      "Adım 2: ocağı kıs.",
+      "Adım 3: malzemeleri ekle.",
+      "Adım 4: suyu ilave et.",
+      "Adım 5: tadına bak.",
+      "Adım 6: tadına bak.",
+      "Adım 7: yağı ısıt.",
+      "Adım 8: tadına bak.",
+      "Adım 9: karıştır.",
+      "Adım 10: tadına bak."
+    ],
+    "image": "https://source.unsplash.com/600x400/?Chocolate%20Cake,food"
+  },
+  {
+    "title": "Miso Soup",
+    "category": "Çorba",
+    "cuisine": "Dünya",
+    "kcal": 693,
+    "time": "82 dk",
+    "servings": 2,
+    "ingredients": [
+      "tereyağı",
+      "soğan",
+      "karabiber",
+      "nane",
+      "salça",
+      "mercimek",
+      "tuz"
+    ],
+    "steps": [
+      "Adım 1: yağı ısıt.",
+      "Adım 2: pişmeye bırak.",
+      "Adım 3: yağı ısıt.",
+      "Adım 4: tadına bak.",
+      "Adım 5: malzemeleri ekle.",
+      "Adım 6: baharatları ekle.",
+      "Adım 7: suyu ilave et."
+    ],
+    "image": "https://source.unsplash.com/600x400/?Miso%20Soup,food"
+  },
+  {
+    "title": "Pad Thai",
+    "category": "Dünya",
+    "cuisine": "Dünya",
+    "kcal": 633,
+    "time": "51 dk",
+    "servings": 4,
+    "ingredients": [
+      "soğan",
+      "soya sosu",
+      "pirinç",
+      "zencefil",
+      "yağ",
+      "tavuk"
+    ],
+    "steps": [
+      "Adım 1: baharatları ekle.",
+      "Adım 2: yağı ısıt.",
+      "Adım 3: suyu ilave et.",
+      "Adım 4: pişmeye bırak.",
+      "Adım 5: tadına bak.",
+      "Adım 6: tadına bak.",
+      "Adım 7: baharatları ekle.",
+      "Adım 8: tadına bak.",
+      "Adım 9: pişmeye bırak."
+    ],
+    "image": "https://source.unsplash.com/600x400/?Pad%20Thai,food"
+  },
+  {
+    "title": "Burrito",
+    "category": "Et",
+    "cuisine": "Dünya",
+    "kcal": 241,
+    "time": "76 dk",
+    "servings": 2,
+    "ingredients": [
+      "karabiber",
+      "domates",
+      "yağ",
+      "tuz",
+      "soğan",
+      "biber",
+      "sarımsak",
+      "tavuk göğsü"
+    ],
+    "steps": [
+      "Adım 1: soğanları doğra.",
+      "Adım 2: malzemeleri ekle.",
+      "Adım 3: fırına ver.",
+      "Adım 4: karıştır.",
+      "Adım 5: servis et.",
+      "Adım 6: suyu ilave et.",
+      "Adım 7: ocağı kıs.",
+      "Adım 8: suyu ilave et."
+    ],
+    "image": "https://source.unsplash.com/600x400/?Burrito,food"
+  },
+  {
+    "title": "Chicken Curry",
+    "category": "Et",
+    "cuisine": "Dünya",
+    "kcal": 739,
+    "time": "77 dk",
+    "servings": 4,
+    "ingredients": [
+      "tuz",
+      "domates",
+      "yağ",
+      "kuzu eti",
+      "soğan",
+      "karabiber"
+    ],
+    "steps": [
+      "Adım 1: soğanları doğra.",
+      "Adım 2: fırına ver.",
+      "Adım 3: ocağı kıs.",
+      "Adım 4: pişmeye bırak.",
+      "Adım 5: soğanları doğra.",
+      "Adım 6: tadına bak.",
+      "Adım 7: yağı ısıt.",
+      "Adım 8: malzemeleri ekle.",
+      "Adım 9: pişmeye bırak."
+    ],
+    "image": "https://source.unsplash.com/600x400/?Chicken%20Curry,food"
+  },
+  {
+    "title": "Ramen",
+    "category": "Çorba",
+    "cuisine": "Dünya",
+    "kcal": 263,
+    "time": "53 dk",
+    "servings": 4,
+    "ingredients": [
+      "nane",
+      "tereyağı",
+      "mercimek",
+      "salça",
+      "karabiber",
+      "soğan",
+      "tuz"
+    ],
+    "steps": [
+      "Adım 1: ocağı kıs.",
+      "Adım 2: servis et.",
+      "Adım 3: ocağı kıs.",
+      "Adım 4: suyu ilave et.",
+      "Adım 5: pişmeye bırak.",
+      "Adım 6: ocağı kıs.",
+      "Adım 7: pişmeye bırak.",
+      "Adım 8: tadına bak.",
+      "Adım 9: tadına bak.",
+      "Adım 10: tadına bak."
+    ],
+    "image": "https://source.unsplash.com/600x400/?Ramen,food"
+  },
+  {
+    "title": "Panna Cotta",
+    "category": "Tatlı",
+    "cuisine": "Dünya",
+    "kcal": 540,
+    "time": "55 dk",
+    "servings": 2,
+    "ingredients": [
+      "süt",
+      "un",
+      "şeker",
+      "vanilin",
+      "yumurta",
+      "tereyağı"
+    ],
+    "steps": [
+      "Adım 1: malzemeleri ekle.",
+      "Adım 2: karıştır.",
+      "Adım 3: fırına ver.",
+      "Adım 4: karıştır.",
+      "Adım 5: servis et.",
+      "Adım 6: soğanları doğra.",
+      "Adım 7: pişmeye bırak."
+    ],
+    "image": "https://source.unsplash.com/600x400/?Panna%20Cotta,food"
   }
 ]
